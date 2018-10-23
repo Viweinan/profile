@@ -1,0 +1,44 @@
+
+<!-- saved from url=(0120)file:///home/viktor/code/Viweinan/fullstack-challenges/04-Front-End/02-CSS-components/04-Airbnb-homepage/home/index.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <title>Airbnb home</title>
+    <link href="./Airbnb home_files/css" rel="stylesheet">
+    <link rel="stylesheet" href="./Airbnb home_files/all.css">
+    <link rel="stylesheet" href="./Airbnb home_files/style.css">
+  </head>
+  <body>
+      <div class="banner">
+        <div class="banner-content">
+          <h1>WELCOME HOME</h1>
+          <p>Rent unique places to stay from local hosts in 190+ countries.</p>
+          <a href="file:///home/viktor/code/Viweinan/fullstack-challenges/04-Front-End/02-CSS-components/04-Airbnb-homepage/home/index.html" class="btn-green">How it works</a>
+        </div>
+      </div>
+    <div class="container">
+      <h2 class="text-center">What is your next trip?</h2>
+      <div class="cards">
+        <div class="card">
+          <div class="card-body">
+              <div class="card-category">
+                <h2>SHANGHAI</h2>
+              </div>
+              <div class="avatar-large">
+                <img src="./Airbnb home_files/jad.png" alt="jad" class="avatar-large">
+              </div>
+              <div class="card-desc">
+                  <h3>Jad's home</h3>
+                 <p>Charming room in Shanghai</p>
+              </div>
+          </div>
+          <div class="card-footer">
+            <div class="card-date">
+            </div>
+            <div class="card-links">
+            </div>
+          </div>
+      </div>
+    </div>
+  
+
+</div></body></html>
